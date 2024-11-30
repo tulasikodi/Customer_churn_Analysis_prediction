@@ -38,7 +38,10 @@ The churn analysis  highlights significant patterns in customer behavior, showin
 There are critical insights into customer characteristics and factors driving churn, which can guide targeted retention strategies.
 The key performance indicators are has shown 27% churn rate  1732 customers are churned with 6418 total customers and 411 new joiners. 
 
-Below is the overview page from the power Bi dashboard and more examples are there thoughout the report . The entire interactive dashboard can  download here
+Below is the overview page from the power Bi dashboard and more examples are there thoughout the report . 
+The entire interactive dashboard can  download here 
+[The entire interactive dashboard can  download here ](https://github.com/tulasikodi/Customer_churn_Analysis_prediction/blob/main/customer_churn_analysis_prediction.pbix)
+
 
 ![image](https://github.com/user-attachments/assets/c960f8d0-f62a-443c-b97e-f1961c5fec32)
 
