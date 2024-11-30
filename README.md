@@ -7,6 +7,7 @@
 - [**Future Churn Prediction Insights**](#future-churn-prediction-insights)
 - [**Recommendations**](#recommendations)
 
+Skills Used -  Excel , Python , Power BI , Dax
 
 
 ## Project overview
