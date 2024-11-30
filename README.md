@@ -1,11 +1,11 @@
 # Customer_churn_Analysis_Prediction
 
-Index
-
-- [**Project Overview**](## Project Overview)
-- [Project Overview](#project-overview)
+## Table of Contents
 - [**Project Overview**](#project-overview)
-- [**Project Overview**](#project-overview)
+- [**Data Model View**](#data-model-view)
+- [**Executive Summary**](#executive-summary)
+- [**Future Churn Prediction Insights**](#future-churn-prediction-insights)
+- [**Recommendations**](#recommendations)
 
 
 
@@ -100,7 +100,7 @@ This service has the lowest churn rate, suggesting customers who invest in secur
 ![image](https://github.com/user-attachments/assets/f5a37c92-12ae-4d0d-a90e-8d30bc700a32)
 
 
-**Future Churn Prediction Insights**
+# Future Churn Prediction Insights
 
 ![image](https://github.com/user-attachments/assets/ff4bf006-690e-496d-bc74-9e806843b668)
 
@@ -120,7 +120,20 @@ This service has the lowest churn rate, suggesting customers who invest in secur
 - Most churners pay via Credit Card (190), followed by Bank Withdrawal (149).
   Investigate payment process issues or convenience factors to reduce churn.
 
+## Recommendations
+
+- Many customers with 24 months of tenure are also churning, indicating dissatisfaction toward the end of contracts.**Launch a loyalty program or exclusive benefits to make long-term customers feel valued (e.g., discounts, personalized offers, or exclusive access to services).
+Regularly engage with them through surveys or feedback channels to understand their evolving needs.**
+
+- 20-35 , 35-50, above 50 Middle-aged customers may need tailored benefits or personalized engagement to stay loyal.
   
+- 93% churn rate for internet services and 80% churn rate for unlimited data services .Conduct competitive pricing analysis to ensure offerings are aligned with market standards.
+
+- For Month-to-Month Contract Customers **Offer discounts or bundled services for upgrading to annual or multi-year contracts.**
+
+-  A significant number of customers are using credit cards and bank transfers as payment methods, while mailed checks are less common in future .**implify and incentivize digital payment options (credit card, bank transfer) to enhance customer experience and reduce friction in payment processing.**
+  
+
 
 
 
